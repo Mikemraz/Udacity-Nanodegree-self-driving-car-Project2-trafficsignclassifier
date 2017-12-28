@@ -19,9 +19,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/Visualization.png "Visualization"
-[image2]: ./examples/distribution "distribution"
-[image3]: ./examples/grayscale.png "Grayscaling" 
+[image1]: ./examples/Visualization.PNG "Visualization"
+[image2]: ./examples/distribution.PNG "distribution"
+[image3]: ./examples/grayscale.PNG "Grayscaling" 
 
 
 ## Rubric Points
